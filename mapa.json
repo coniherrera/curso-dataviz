@@ -1,1 +1,229 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Region":"REGION","Defunciones":"DEFUNCIONES"},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Tarapacá","Defunciones":1437},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Arica y Parinacota","Defunciones":1269},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Antofagasta","Defunciones":305},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Atacama","Defunciones":1528},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Coquimbo","Defunciones":4297},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región Metropolitana de Santiago","Defunciones":39283},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Valparaíso","Defunciones":12377},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Magallanes y de la Antártica Chilena","Defunciones":1069},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región del Libertador Bernardo O’ Higgins","Defunciones":5556},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de la Araucanía","Defunciones":6563},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región del Biobío","Defunciones":12803},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región del Maule","Defunciones":6573},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de los Lagos","Defunciones":5054},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de Aisén del General Carlos Ibáñez del campo","Defunciones":477},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}},{"type":"Feature","properties":{"Region":"Región de los Ríos","Defunciones":269},"geometry":{"type":"Point","coordinates":[-69.65752396667588,-18.49025394481695]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "REGION",
+                "Defunciones": "DEFUNCIONES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.65752396667588,
+                    -18.49025394481695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Tarapacá",
+                "Defunciones": 1437
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.4336023578,
+                    -20.1191162753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Arica y Parinacota",
+                "Defunciones": 1269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.6575239667,
+                    -18.4902539448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Antofagasta",
+                "Defunciones": 305
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.1480070857,
+                    -23.3782313092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Atacama",
+                "Defunciones": 1528
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.8997450836,
+                    -27.2239527887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Coquimbo",
+                "Defunciones": 4297
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9329512531,
+                    -30.5261981153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Región Metropolitana",
+                "Defunciones": 39283
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6529922171,
+                    -33.4926533461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Valparaiso",
+                "Defunciones": 12377
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8965991178,
+                    -32.5956678436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Magallanes y Antártica Chilena",
+                "Defunciones": 1069
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3431685686,
+                    -51.8507046991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Del Libertador Gral Bernardo O'Higgins",
+                "Defunciones": 5556
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1148483746,
+                    -34.452385399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De La Araucanía",
+                "Defunciones": 6563
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.391516408,
+                    -38.593745547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Del Bio Bío",
+                "Defunciones": 12803
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3054425598,
+                    -37.0310738688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "Del Maule",
+                "Defunciones": 6573
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4255053727,
+                    -35.226595065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Los Lagos",
+                "Defunciones": 5054
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.8980199703,
+                    -41.3892876083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Aisén del Gral. Carlos Ibañez del Campo",
+                "Defunciones": 477
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.1791679687,
+                    -45.9492280455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Region": "De Los Ríos",
+                "Defunciones": 269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6504343598,
+                    -39.9917850035
+                ]
+            }
+        }
+    ]
+}
