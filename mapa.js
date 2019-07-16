@@ -25,8 +25,8 @@ function MostrarDato(feature, layer) {
     layer.on({
       click: (event)=>{
         // Se obtienen los datos desde las propiedades del JSON
-        let Region = event.target.feature.properties.region
-        let Defunciones = event.target.feature.properties.defunciones
+        let Region = event.target.feature.properties.Region
+        let Defunciones = event.target.feature.properties.Defunciones
 
 
         // Se genera el HTML para representar la acción de Click sobre un marcador
