@@ -18,8 +18,8 @@ function MostrarDato(feature, layer) {
   // Se valida si el objeto tiene la propiedad "properties"
   if (feature.properties) {
     let dato_a_mostrar = `<p>
-      <h5>Region: ${feature.properties.region}</h5><br/>
-      <span><b>Defunciones</b>: ${feature.properties.defunciones}</span><br/>
+      <h5>Region: ${feature.properties.Region}</h5><br/>
+      <span><b>Defunciones</b>: ${feature.properties.Defunciones}</span><br/>
     </p>`
     layer.bindPopup(dato_a_mostrar);
     layer.on({
