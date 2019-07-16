@@ -4,7 +4,7 @@
   "description": "Defunciones Chile 2016",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/codigonet/fau-nodejs"
+    "url": "https://coniherrera.github.io/curso-dataviz/"
   },
   "scripts": {
     "test": "echo \"Solo de prueba\""
